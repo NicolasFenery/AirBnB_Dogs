@@ -8,6 +8,6 @@ Application de promenade entre Dog et Dogsitter
 - Stroll
 
 ## Réalisé par : :fire:
-Nicolas Fenery & Manon Fenery
+Nicolas & Manon & Théo
 
 
