@@ -1,24 +1,13 @@
-# README
+# App AirBnB Dogs
+Application de promenade entre Dog et Dogsitter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Models
+- Dog
+- Dogsitter
+- City
+- Stroll
 
-Things you may want to cover:
+## Réalisé par : :fire:
+Nicolas Fenery & Manon Fenery
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
